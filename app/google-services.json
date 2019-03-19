@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "448116373847",
+    "firebase_url": "https://ejemplofirebase-86e20.firebaseio.com",
+    "project_id": "ejemplofirebase-86e20",
+    "storage_bucket": "ejemplofirebase-86e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448116373847:android:9fa863125a8508bb",
+        "android_client_info": {
+          "package_name": "com.celesteortiz.ejemplofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448116373847-a1mko62g3alls848bu49c8qo5cqohnql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.celesteortiz.ejemplofirebase",
+            "certificate_hash": "1849ac6eaf3a78563ea06eba16ae3e2432143fa7"
+          }
+        },
+        {
+          "client_id": "448116373847-pa6pri48surh07j1nmb8rsuad1a889lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHYJNvk7bt64T8uO-66L37yfS69EPZyD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448116373847-pa6pri48surh07j1nmb8rsuad1a889lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448116373847:android:92ef7ef278001a33",
+        "android_client_info": {
+          "package_name": "com.celesteortiz.menucomida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448116373847-tm2qdhml9fnqgbaovenk20stu4i0fkgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.celesteortiz.menucomida",
+            "certificate_hash": "1849ac6eaf3a78563ea06eba16ae3e2432143fa7"
+          }
+        },
+        {
+          "client_id": "448116373847-pa6pri48surh07j1nmb8rsuad1a889lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHYJNvk7bt64T8uO-66L37yfS69EPZyD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448116373847-pa6pri48surh07j1nmb8rsuad1a889lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448116373847:android:4b16ea36b0e4d6b3",
+        "android_client_info": {
+          "package_name": "com.celesteortiz.misfotografias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448116373847-m91plm1ohg496oohvvrd4eeo5eh1h4vl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.celesteortiz.misfotografias",
+            "certificate_hash": "1849ac6eaf3a78563ea06eba16ae3e2432143fa7"
+          }
+        },
+        {
+          "client_id": "448116373847-pa6pri48surh07j1nmb8rsuad1a889lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHYJNvk7bt64T8uO-66L37yfS69EPZyD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448116373847-pa6pri48surh07j1nmb8rsuad1a889lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448116373847:android:220b91d7c2d1f10f",
+        "android_client_info": {
+          "package_name": "com.celesteortiz.multilogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448116373847-fpd71vtuff29oqgpdbr2fifs927mfuq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.celesteortiz.multilogin",
+            "certificate_hash": "1849ac6eaf3a78563ea06eba16ae3e2432143fa7"
+          }
+        },
+        {
+          "client_id": "448116373847-pa6pri48surh07j1nmb8rsuad1a889lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHYJNvk7bt64T8uO-66L37yfS69EPZyD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448116373847-pa6pri48surh07j1nmb8rsuad1a889lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448116373847:android:b277d65bc9d94af9",
+        "android_client_info": {
+          "package_name": "com.celesteortiz.ofertascloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448116373847-u2rftp97dnqrj6edl0ag1138qgaofqni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.celesteortiz.ofertascloudmessaging",
+            "certificate_hash": "1849ac6eaf3a78563ea06eba16ae3e2432143fa7"
+          }
+        },
+        {
+          "client_id": "448116373847-pa6pri48surh07j1nmb8rsuad1a889lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHYJNvk7bt64T8uO-66L37yfS69EPZyD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448116373847-pa6pri48surh07j1nmb8rsuad1a889lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
