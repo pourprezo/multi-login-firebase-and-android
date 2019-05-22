@@ -46,6 +46,7 @@ import de.hdodenhof.circleimageview.CircleImageView;
 
 //Comment 22-05-2019
 //Ahora esta es mi rama master
+//Resolviendo issue 001
 public class MainActivity extends AppCompatActivity {
     private static final int RC_SIGN_IN = 123;
     private static final int RC_FROM_GALLERY = 124;
